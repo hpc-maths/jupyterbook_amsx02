@@ -1,0 +1,9 @@
+name: jbamsx02
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-book=0.11.3
+  - numpy
+  - scipy
+  - plotly
+  - mpmath
