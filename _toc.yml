@@ -11,3 +11,9 @@ parts:
   - caption: Cours
     chapters:
     - file: content/cours/cours01
+    - file: content/cours/cours02
+      sections:
+      - file: content/notebooks/exemples
+      - file: content/notebooks/syst_conserv
+      - file: content/notebooks/explosion
+      - file: content/notebooks/tp01_curtiss
